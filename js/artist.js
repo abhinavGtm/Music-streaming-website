@@ -1,4 +1,4 @@
-lfKey = "8a6d12850edc389a54cc81c1bf5312ad"
+lfKey = "5f0374b0d133af56527aecc662d1633f"
 
 $(document).ready(function () {
 	(function ($) {
